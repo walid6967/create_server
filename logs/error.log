@@ -1,0 +1,5 @@
+2023/11/30 09:51:12 [error] 7100#6772: *1 CreateFile() "C:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/30 13:58:00 [notice] 1580#13376: signal process started
+2023/11/30 13:58:18 [error] 3688#8068: *4 CreateFile() "C:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2023/11/30 14:00:36 [notice] 15304#7644: signal process started
+2023/11/30 14:00:42 [error] 9300#11980: *7 directory index of "C:/nginx/htdocs/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
